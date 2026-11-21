@@ -1,7 +1,7 @@
 # Olá, eu sou o Tayson.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&width=500&lines=Desenvolvedor+%26+Criador;Construindo+apps+e+ferramentas;Explorando+novas+tecnologias;Transformando+ideias+em+projetos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=500&lines=Desenvolvedor+%26+Criador;Construindo+apps+e+ferramentas;Explorando+novas+tecnologias;Transformando+ideias+em+projetos" />
 </p>
 
 Gosto de explorar tecnologias, compreender como as coisas funcionam e construir soluções a partir de ideias. Estou sempre experimentando, aprendendo e levando projetos cada vez mais longe.
