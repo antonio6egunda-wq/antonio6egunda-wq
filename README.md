@@ -1,7 +1,7 @@
 # Olá, eu sou o Tayson.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&width=500&lines=Desenvolvedor+%26+Criador;Construindo+apps+e+ferramentas;Explorando+novas+tecnologias;Transformando+ideias+em+projetos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&width=500&lines=Desenvolvedor+%26+Criador;Construindo+apps+e+ferramentas;Explorando+novas+tecnologias;Transformando+ideias+em+projetos" />
 </p>
 
 Gosto de explorar tecnologias, compreender como as coisas funcionam e construir soluções a partir de ideias. Estou sempre experimentando, aprendendo e levando projetos cada vez mais longe.
@@ -21,9 +21,10 @@ Não tenho medo de desmontar, modificar e reconstruir. É assim que aprendo: exp
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,github" />
 </p>
 
-### Atualmente
+### Atualmente, gosto de:
 
-- Desenvolvimento de software e experimentação com novas ideias.
-- Exploração do desenvolvimento de aplicativos.
-- Criação de projetos úteis (e às vezes completamente desnecessários).
-- 
+- Explorar o desenvolvimento de software e experimentar novas ideias.
+- Aprender e aprofundar conhecimentos na criação de aplicações.
+- Desenvolver ferramentas e projetos úteis para resolver problemas.
+- Criar experiências experimentais e projetos simplesmente por diversão.
+- Explorar tecnologias, testar possibilidades e transformar ideias em realidade.
